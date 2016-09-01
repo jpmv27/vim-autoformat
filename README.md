@@ -1,3 +1,14 @@
+**This is a FORK of https://github.com/Chiel92/vim-autoformat**
+
+Changes:
+
+- Add support for `b:formatters_<filetype>` override of `g:formatters_<filetype>`
+- Add support for `b:formatdef_<identifier>` override of `g:formatdef_<identifier>`
+
+Changes are licensed under the same terms as the original
+
+# Original README
+
 # vim-autoformat
 
 Format code with one button press!
