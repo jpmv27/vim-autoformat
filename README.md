@@ -2,8 +2,8 @@
 
 Changes:
 
-- Add support for `b:formatters_<filetype>` override of `g:formatters_<filetype>`
-- Add support for `b:formatdef_<identifier>` override of `g:formatdef_<identifier>`
+- Add support for `b:formatters_<filetype>` override of `g:formatters_<filetype>` (merged upstream)
+- Add support for `b:formatdef_<identifier>` override of `g:formatdef_<identifier>` (merged upstream)
 
 Changes are licensed under the same terms as the original
 
